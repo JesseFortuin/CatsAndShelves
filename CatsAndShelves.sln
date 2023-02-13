@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatsAndShelves.BL", "CatsAndShelves.BL\CatsAndShelves.BL.csproj", "{DCB2E74D-C46C-496E-A218-CBCFD4B96005}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CatsAndShelves.BL", "CatsAndShelves.BL\CatsAndShelves.BL.csproj", "{DCB2E74D-C46C-496E-A218-CBCFD4B96005}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatsAndShelves.Test", "CatsAndShelves.Test\CatsAndShelves.Test.csproj", "{3FB835DA-441A-4A79-B9F9-57D0905EC897}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{DCB2E74D-C46C-496E-A218-CBCFD4B96005}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DCB2E74D-C46C-496E-A218-CBCFD4B96005}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DCB2E74D-C46C-496E-A218-CBCFD4B96005}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FB835DA-441A-4A79-B9F9-57D0905EC897}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FB835DA-441A-4A79-B9F9-57D0905EC897}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FB835DA-441A-4A79-B9F9-57D0905EC897}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FB835DA-441A-4A79-B9F9-57D0905EC897}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
